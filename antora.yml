@@ -1,4 +1,7 @@
-name: wikiDoc
-title: Devon Guide
-version: '1.0'
+name: Documentation from other repositories
+title: Documentation
+version: 1.0
+start_page: getting-started.wiki:Home.ascidoc
+nav:
+- master.asciidoc
 
